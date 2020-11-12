@@ -1,0 +1,2237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="circuits3.svg"
+   inkscape:export-filename="C:\Users\User\iCloudDrive\Courses\CSU0007\homework1\4.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker7248"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path7246" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker6572"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path6570" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker3479"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path3477"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker2909"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path2907"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1923"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path1921"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5237"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path5235"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5089"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path5087"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker1540"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path1538" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1511"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1509"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker3615"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path3613"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker3042"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3040" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1880"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1638"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker1464"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path1462" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker5624"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path5622" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker5064"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path5062" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker4067"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4065"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path2186"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker1461"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path1459" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker3241"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path3239"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker1735"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path1733" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker938"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path936" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker3545"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3543" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker3311"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path3309"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3221-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3219-6"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.93"
+     inkscape:cx="526.89611"
+     inkscape:cy="759.13979"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1659"
+     inkscape:window-height="914"
+     inkscape:window-x="79"
+     inkscape:window-y="45"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="圖層 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="125.70502"
+       y="213.1626"
+       id="text2066"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+         sodipodi:role="line"
+         id="tspan2064"
+         x="125.70502"
+         y="213.1626"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';stroke-width:0.26458332">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="81.935486"
+       y="215.06451"
+       id="text2523"><tspan
+         sodipodi:role="line"
+         id="tspan2521"
+         x="81.935486"
+         y="224.42828"
+         style="stroke-width:0.26458332" /></text>
+    <g
+       id="g7660">
+      <g
+         transform="translate(-112.18338)"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         id="g1374">
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:connector-curvature="0"
+           id="path2048"
+           d="m 172.38132,186.89097 v 34.21336"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:connector-curvature="0"
+           id="path2050"
+           d="m 174.44992,199.29211 -4.07233,1.22676 4.07233,1.22677 -4.8868,1.22676 4.8868,1.22676 -4.47956,1.22677 4.47956,1.22676 -4.8868,1.22677 4.8868,1.22676"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+        <rect
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           y="187.11943"
+           x="124.41521"
+           height="34.213348"
+           width="71.833275"
+           id="rect2052"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 161.03849,189.18008 -1.22675,-4.07233 -1.22677,4.07233 -1.22676,-4.8868 -1.22677,4.8868 -1.22677,-4.47956 -1.22676,4.47956 -1.22677,-4.8868 -1.22676,4.8868"
+           id="path2058"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 198.26237,199.29211 -4.07233,1.22676 4.07233,1.22677 -4.8868,1.22676 4.8868,1.22676 -4.47956,1.22677 4.47956,1.22676 -4.8868,1.22677 4.8868,1.22676"
+           id="path2068"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="201.45973"
+           y="206.97369"
+           id="text2072"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+             sodipodi:role="line"
+             id="tspan2070"
+             x="201.45973"
+             y="206.97369"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332">v1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="201.80403"
+           y="197.38206"
+           id="text2088"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+             sodipodi:role="line"
+             id="tspan2086"
+             x="201.80403"
+             y="197.38206"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332">+</tspan></text>
+        <text
+           transform="scale(1.59126,0.62843281)"
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           id="text2092"
+           y="342.71555"
+           x="126.83321"
+           style="font-style:normal;font-weight:normal;font-size:16.84083557px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42102087"
+           xml:space="preserve"
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.10450077px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.42102087"
+             y="342.71555"
+             x="126.83321"
+             id="tspan2090"
+             sodipodi:role="line">-</tspan></text>
+        <rect
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           y="246.261"
+           x="139.26225"
+           height="34.213348"
+           width="57.122818"
+           id="rect2154"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="155.4747"
+           y="269.12866"
+           id="text2164"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+             sodipodi:role="line"
+             id="tspan2162"
+             x="155.4747"
+             y="269.12866"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332"
+             dy="0 1.7069893">Rt1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="125.84161"
+           y="274.95026"
+           id="text2168"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+             sodipodi:role="line"
+             id="tspan2166"
+             x="125.84161"
+             y="274.95026"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332"
+             dy="0 1.7069893">isc1</tspan></text>
+        <g
+           transform="matrix(1,0,0,-1,23.380038,429.45436)"
+           id="g1455"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png">
+          <circle
+             r="8.0971622"
+             cy="224.31189"
+             cx="101.06942"
+             id="circle1450"
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1464)"
+             d="m 101.28136,217.26253 v 12.79281"
+             id="path1452"
+             inkscape:connector-curvature="0" />
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 141.16044,186.89097 v 34.21336"
+           id="path1461"
+           inkscape:connector-curvature="0"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 143.22904,199.29211 -4.07233,1.22676 4.07233,1.22677 -4.8868,1.22676 4.8868,1.22676 -4.47956,1.22677 4.47956,1.22676 -4.8868,1.22677 4.8868,1.22676"
+           id="path1463"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+        <path
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:connector-curvature="0"
+           id="path1651"
+           d="m 198.26237,260.1463 -4.07233,1.22676 4.07233,1.22677 -4.8868,1.22676 4.8868,1.22676 -4.47956,1.22677 4.47956,1.22676 -4.8868,1.22677 4.8868,1.22676"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+        <text
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           id="text1655"
+           y="267.82782"
+           x="201.45973"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332"
+             y="267.82782"
+             x="201.45973"
+             id="tspan1653"
+             sodipodi:role="line">v1</tspan></text>
+        <text
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           id="text1659"
+           y="258.23621"
+           x="201.80403"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332"
+             y="258.23621"
+             x="201.80403"
+             id="tspan1657"
+             sodipodi:role="line">+</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:16.84083557px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42102087"
+           x="126.83321"
+           y="439.55026"
+           id="text1663"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1.59126,0.62843281)"
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+             sodipodi:role="line"
+             id="tspan1661"
+             x="126.83321"
+             y="439.55026"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.10450077px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.42102087">-</tspan></text>
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1697"
+           width="68.189568"
+           height="46.811363"
+           x="113.17647"
+           y="180.09233"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+        <rect
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           y="238.83101"
+           x="123.13908"
+           height="46.809425"
+           width="58.305645"
+           id="rect1821"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+        <g
+           id="g1838"
+           transform="matrix(1,0,0,0.57112101,46.03752,130.73785)"
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1823"
+             d="m 102.03813,175.23476 v 7.96596"
+             style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 103.62563,175.23476 v 7.96596"
+             id="path1825"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1827"
+             d="m 105.21312,175.23476 v 7.96596"
+             style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1829"
+             d="m 99.483336,175.5648 c 3.698474,-3.98297 3.698474,-3.98297 3.698474,-3.98297 l 3.69848,3.69847"
+             style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 99.483336,182.50426 c 3.698474,3.98297 3.698474,3.98297 3.698474,3.98297 l 3.69848,-3.69847"
+             id="path1831"
+             inkscape:connector-curvature="0" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="151.10489"
+           y="196.75786"
+           id="text5030"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+             sodipodi:role="line"
+             id="tspan5028"
+             x="151.10489"
+             y="196.75786"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332">1Ω</tspan></text>
+        <text
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           id="text5034"
+           y="206.28288"
+           x="144.22574"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332"
+             y="206.28288"
+             x="144.22574"
+             id="tspan5032"
+             sodipodi:role="line">1Ω</tspan></text>
+        <path
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:connector-curvature="0"
+           id="path5036"
+           d="m 161.03849,223.57592 -1.22675,-4.07233 -1.22677,4.07233 -1.22676,-4.8868 -1.22677,4.8868 -1.22677,-4.47956 -1.22676,4.47956 -1.22677,-4.8868 -1.22676,4.8868"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="159.04243"
+           y="206.28288"
+           id="text5040"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+             sodipodi:role="line"
+             id="tspan5038"
+             x="159.04243"
+             y="206.28288"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332">4Ω</tspan></text>
+        <text
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           id="text5044"
+           y="216.33699"
+           x="151.10489"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332"
+             y="216.33699"
+             x="151.10489"
+             id="tspan5042"
+             sodipodi:role="line">2Ω</tspan></text>
+        <text
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           id="text5048"
+           y="207.3412"
+           x="183.38416"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332"
+             y="207.3412"
+             x="183.38416"
+             id="tspan5046"
+             sodipodi:role="line">4Ω</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="126.76323"
+           y="218.98286"
+           id="text5052"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+             sodipodi:role="line"
+             id="tspan5050"
+             x="126.76323"
+             y="218.98286"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332">2A</tspan></text>
+        <g
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           id="g5058"
+           transform="matrix(1,0,0,-1,38.196705,485.01688)">
+          <circle
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle5054"
+             cx="101.06942"
+             cy="224.31189"
+             r="8.0971622" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path5056"
+             d="m 101.28136,217.26253 v 12.79281"
+             style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1464)" />
+        </g>
+        <path
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 169.2063,246.15768 v 34.21336"
+           id="path5060"
+           inkscape:connector-curvature="0"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 171.2749,258.55882 -4.07233,1.22676 4.07233,1.22677 -4.8868,1.22676 4.8868,1.22676 -4.47956,1.22677 4.47956,1.22676 -4.8868,1.22677 4.8868,1.22676"
+           id="path5063"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="183.38416"
+           y="267.66617"
+           id="text5067"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+             sodipodi:role="line"
+             id="tspan5065"
+             x="183.38416"
+             y="267.66617"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332">4Ω</tspan></text>
+      </g>
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:connector-curvature="0"
+         id="path2476"
+         d="m 168.14795,223.93266 v 34.21336"
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         y="224.16113"
+         x="120.18184"
+         height="34.213348"
+         width="71.833275"
+         id="rect2480"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 156.80512,226.22177 -1.22675,-4.07233 -1.22677,4.07233 -1.22676,-4.8868 -1.22677,4.8868 -1.22677,-4.47956 -1.22676,4.47956 -1.22677,-4.8868 -1.22676,4.8868"
+         id="path2482"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 194.029,236.3338 -4.07233,1.22676 4.07233,1.22677 -4.8868,1.22676 4.8868,1.22676 -4.47956,1.22677 4.47956,1.22676 -4.8868,1.22677 4.8868,1.22676"
+         id="path2484"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         y="224.49533"
+         x="224.91748"
+         height="28.663031"
+         width="37.063091"
+         id="rect2498"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="236.96648"
+         y="233.14531"
+         id="text2502"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+           sodipodi:role="line"
+           id="tspan2500"
+           x="236.96648"
+           y="233.14531"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332"
+           dy="0 1.7069893">Rt2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="253.37053"
+         y="259.60455"
+         id="text2506"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+           sodipodi:role="line"
+           id="tspan2504"
+           x="253.37053"
+           y="259.60455"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332"
+           dy="0 1.7069893">isc2</tspan></text>
+      <g
+         transform="translate(66.771673,17.872248)"
+         id="g2512"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png">
+        <circle
+           r="8.0971622"
+           cy="224.31189"
+           cx="101.06942"
+           id="circle2508"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1464)"
+           d="m 101.28136,217.26253 v 12.79281"
+           id="path2510"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 136.92707,223.93266 v 34.21336"
+         id="path2514"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 138.99567,236.3338 -4.07233,1.22676 4.07233,1.22677 -4.8868,1.22676 4.8868,1.22676 -4.47956,1.22677 4.47956,1.22676 -4.8868,1.22677 4.8868,1.22676"
+         id="path2516"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2532"
+         width="91.436607"
+         height="46.729553"
+         x="108.984"
+         y="217.17494"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         y="217.13516"
+         x="219.7334"
+         height="46.809425"
+         width="47.436363"
+         id="rect2534"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+      <g
+         id="g2546"
+         transform="matrix(0,-1,0.57112101,0,107.8231,343.57839)"
+         inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <path
+           inkscape:connector-curvature="0"
+           id="path2536"
+           d="m 102.03813,175.23476 v 7.96596"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 103.62563,175.23476 v 7.96596"
+           id="path2538"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2540"
+           d="m 105.21312,175.23476 v 7.96596"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2542"
+           d="m 99.483336,175.5648 c 3.698474,-3.98297 3.698474,-3.98297 3.698474,-3.98297 l 3.69848,3.69847"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 99.483336,182.50426 c 3.698474,3.98297 3.698474,3.98297 3.698474,3.98297 l 3.69848,-3.69847"
+           id="path2544"
+           inkscape:connector-curvature="0" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="146.87152"
+         y="233.2704"
+         id="text2550"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+           sodipodi:role="line"
+           id="tspan2548"
+           x="146.87152"
+           y="233.2704"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332">1Ω</tspan></text>
+      <text
+         inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         id="text2554"
+         y="243.32458"
+         x="139.99237"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332"
+           y="243.32458"
+           x="139.99237"
+           id="tspan2552"
+           sodipodi:role="line">1Ω</tspan></text>
+      <path
+         inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path2556"
+         d="m 185.38015,226.22177 -1.22675,-4.07233 -1.22677,4.07233 -1.22676,-4.8868 -1.22677,4.8868 -1.22677,-4.47956 -1.22676,4.47956 -1.22677,-4.8868 -1.22676,4.8868"
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <text
+         inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         id="text2564"
+         y="233.2701"
+         x="175.44652"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332"
+           y="233.2701"
+           x="175.44652"
+           id="tspan2562"
+           sodipodi:role="line">2Ω</tspan></text>
+      <text
+         inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         id="text2568"
+         y="244.3829"
+         x="179.15079"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332"
+           y="244.3829"
+           x="179.15079"
+           id="tspan2566"
+           sodipodi:role="line">3Ω</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="122.52986"
+         y="256.02457"
+         id="text2572"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+           sodipodi:role="line"
+           id="tspan2570"
+           x="122.52986"
+           y="256.02457"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332">2V</tspan></text>
+      <g
+         inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         id="g2578"
+         transform="matrix(0,-1,-1,0,467.82383,354.36609)">
+        <circle
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle2574"
+           cx="101.06942"
+           cy="224.31189"
+           r="8.0971622" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2576"
+           d="m 101.28136,217.26253 v 12.79281"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1464)" />
+      </g>
+      <path
+         inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 237.47861,226.30528 1.22676,-4.07233 1.22677,4.07233 1.22676,-4.8868 1.22676,4.8868 1.22677,-4.47956 1.22676,4.47956 1.22677,-4.8868 1.22677,4.8868"
+         id="path2582"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <g
+         id="g2662"
+         transform="translate(-81.491669,105.30417)"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <g
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+           transform="translate(147.5977,-133.38985)"
+           id="g2656"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <circle
+             r="8.0971622"
+             cy="269.82047"
+             cx="54.50275"
+             id="circle2646"
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             id="text2650"
+             y="268.20496"
+             x="51.697231"
+             style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332"
+               y="268.20496"
+               x="51.697231"
+               id="tspan2648"
+               sodipodi:role="line">+</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:16.84083557px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42102087"
+             x="32.501194"
+             y="436.8884"
+             id="text2654"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96"
+             transform="scale(1.59126,0.6284328)"><tspan
+               sodipodi:role="line"
+               id="tspan2652"
+               x="32.501194"
+               y="436.8884"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.10450077px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.42102087">-</tspan></text>
+        </g>
+      </g>
+      <text
+         inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         id="text2666"
+         y="256.02457"
+         x="170.15491"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332"
+           y="256.02457"
+           x="170.15491"
+           id="tspan2664"
+           sodipodi:role="line">2A</tspan></text>
+      <rect
+         inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2668"
+         width="71.966118"
+         height="18.414293"
+         x="120.11542"
+         y="205.63078"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         y="206.09015"
+         x="224.82072"
+         height="18.553877"
+         width="37.112423"
+         id="rect2670"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+      <rect
+         y="201.96512"
+         x="139.80667"
+         height="7.9908967"
+         width="30.335751"
+         id="rect2672"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:0.37815148;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:0.38153335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect2674"
+         width="30.86171"
+         height="7.9958315"
+         x="228.10361"
+         y="201.96265" />
+      <g
+         transform="translate(1.5875,14.287502)"
+         id="g6385">
+        <text
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           id="text2488"
+           y="193.74455"
+           x="150.65964"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332"
+             y="193.74455"
+             x="150.65964"
+             id="tspan2486"
+             sodipodi:role="line">v2</tspan></text>
+        <text
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           id="text2492"
+           y="193.34874"
+           x="142.00815"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332"
+             y="193.34874"
+             x="142.00815"
+             id="tspan2490"
+             sodipodi:role="line">+</tspan></text>
+        <text
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:16.84083557px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42102087"
+           x="100.89464"
+           y="307.2684"
+           id="text2496"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1.59126,0.62843281)"><tspan
+             sodipodi:role="line"
+             id="tspan2494"
+             x="100.89464"
+             y="307.2684"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.10450077px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.42102087">-</tspan></text>
+      </g>
+      <g
+         id="g6399"
+         transform="translate(89.42917,14.287502)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="150.65964"
+           y="193.74455"
+           id="text6389"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+             sodipodi:role="line"
+             id="tspan6387"
+             x="150.65964"
+             y="193.74455"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332">v2</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="142.00815"
+           y="193.34874"
+           id="text6393"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+             sodipodi:role="line"
+             id="tspan6391"
+             x="142.00815"
+             y="193.34874"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332">+</tspan></text>
+        <text
+           transform="scale(1.59126,0.62843281)"
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           id="text6397"
+           y="307.2684"
+           x="100.89464"
+           style="font-style:normal;font-weight:normal;font-size:16.84083557px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42102087"
+           xml:space="preserve"
+           inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.10450077px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.42102087"
+             y="307.2684"
+             x="100.89464"
+             id="tspan6395"
+             sodipodi:role="line">-</tspan></text>
+      </g>
+      <circle
+         r="1.8492383"
+         cy="205.48265"
+         cx="138.04987"
+         id="path6401"
+         style="fill:#000000;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="circle6403"
+         cx="172.44569"
+         cy="205.48265"
+         r="1.8492383" />
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="circle6405"
+         cx="226.42081"
+         cy="205.48265"
+         r="1.8492383" />
+      <circle
+         r="1.8492383"
+         cy="205.48265"
+         cx="260.81656"
+         id="circle6407"
+         style="fill:#000000;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path6544"
+       d="M 21.417015,58.170812 V 25.453516"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path6538"
+       sodipodi:sides="3"
+       sodipodi:cx="21.394264"
+       sodipodi:cy="40.325718"
+       sodipodi:r1="4.2005658"
+       sodipodi:r2="2.1002829"
+       sodipodi:arg1="-0.52359878"
+       sodipodi:arg2="0.52359878"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 25.032061,38.225435 -1.818898,3.150424 -1.818899,3.150425 -1.818898,-3.150425 -1.818898,-3.150424 3.637796,0 z"
+       inkscape:transform-center-y="1.0501404" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6540"
+       width="10.554465"
+       height="13.399446"
+       x="16.020308"
+       y="34.66156" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 16.631759,45.055448 h 9.103945"
+       id="path6542"
+       inkscape:connector-curvature="0" />
+    <text
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text6548"
+       y="43.461121"
+       x="30.009665"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332"
+         y="43.461121"
+         x="30.009665"
+         id="tspan6546"
+         sodipodi:role="line"
+         dy="0 2.5604839">vD</tspan></text>
+    <text
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text6552"
+       y="33.869545"
+       x="29.29563"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332"
+         y="33.869545"
+         x="29.29563"
+         id="tspan6550"
+         sodipodi:role="line">+</tspan></text>
+    <text
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.84083557px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42102087"
+       x="18.423365"
+       y="83.366898"
+       id="text6556"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="scale(1.59126,0.62843281)"><tspan
+         sodipodi:role="line"
+         id="tspan6554"
+         x="18.423365"
+         y="83.366898"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.10450077px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.42102087">-</tspan></text>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text6566"
+       y="42.66769"
+       x="4.059258"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332"
+         y="42.66769"
+         x="4.059258"
+         id="tspan6564"
+         sodipodi:role="line"
+         dy="0 2.2759857">iD</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6572)"
+       d="m 11.753537,33.821165 0.0541,15.350551"
+       id="path6568"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 21.417015,97.858315 V 65.141017"
+       id="path6958"
+       inkscape:connector-curvature="0" />
+    <rect
+       y="74.34906"
+       x="16.020308"
+       height="13.399446"
+       width="10.554465"
+       id="rect6962"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="30.009665"
+       y="83.148613"
+       id="text6968"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+         dy="0 2.5604839"
+         sodipodi:role="line"
+         id="tspan6966"
+         x="30.009665"
+         y="83.148613"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332">vD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="29.29563"
+       y="73.557045"
+       id="text6972"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+         sodipodi:role="line"
+         id="tspan6970"
+         x="29.29563"
+         y="73.557045"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332">+</tspan></text>
+    <text
+       transform="scale(1.59126,0.62843281)"
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text6976"
+       y="146.52002"
+       x="18.423365"
+       style="font-style:normal;font-weight:normal;font-size:16.84083557px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42102087"
+       xml:space="preserve"
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.10450077px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.42102087"
+         y="146.52002"
+         x="18.423365"
+         id="tspan6974"
+         sodipodi:role="line">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="4.059258"
+       y="82.355186"
+       id="text6980"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         dy="0 2.2759857"
+         sodipodi:role="line"
+         id="tspan6978"
+         x="4.059258"
+         y="82.355186"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332">iD</tspan></text>
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:connector-curvature="0"
+       id="path6982"
+       d="m 11.753537,73.508666 0.0541,15.350551"
+       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6572)" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6984"
+       width="10.626018"
+       height="9.5359411"
+       x="15.98453"
+       y="74.549858" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="36.338417"
+       y="132.09694"
+       id="text2339"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan2337"
+         x="36.338417"
+         y="132.09694"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332"
+         dy="0 2.2759857">i1</tspan></text>
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:connector-curvature="0"
+       id="path2341"
+       d="m 44.0327,123.25031 0.0541,15.35056"
+       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1923)" />
+    <path
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 50.672899,113.86587 v 34.49786"
+       id="path3659"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 52.741486,122.03363 -4.072327,1.22676 4.072327,1.22678 -4.886797,1.22676 4.886797,1.22675 -4.479557,1.22677 4.479557,1.22677 -4.886797,1.22677 4.886797,1.22675"
+       id="path3661"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3663"
+       width="75.830803"
+       height="34.257969"
+       x="12.677809"
+       y="114.07219"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="54.796471"
+       y="129.55432"
+       id="text3667"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan3665"
+         x="54.796471"
+         y="129.55432"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332">R</tspan></text>
+    <path
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:connector-curvature="0"
+       id="path3669"
+       d="m 35.09678,116.15498 -1.22675,-4.07233 -1.22677,4.07233 -1.226757,-4.8868 -1.22677,4.8868 -1.22677,-4.47956 -1.22676,4.47956 -1.226767,-4.8868 -1.22676,4.8868"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text3673"
+       y="123.73293"
+       x="26.221647"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332"
+         y="123.73293"
+         x="26.221647"
+         id="tspan3671"
+         sodipodi:role="line">R</tspan></text>
+    <g
+       id="g3735"
+       transform="translate(-188.91258,-4.7625003)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+         transform="translate(147.5977,-133.38985)"
+         id="g3687"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <circle
+           r="8.0971622"
+           cy="269.82047"
+           cx="54.50275"
+           id="circle3677"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           id="text3681"
+           y="268.20496"
+           x="51.697231"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332"
+             y="268.20496"
+             x="51.697231"
+             id="tspan3679"
+             sodipodi:role="line">+</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:16.84083557px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42102087"
+           x="32.501194"
+           y="436.8884"
+           id="text3685"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1.59126,0.6284328)"><tspan
+             sodipodi:role="line"
+             id="tspan3683"
+             x="32.501194"
+             y="436.8884"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.10450077px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.42102087">-</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="189.73415"
+         y="145.95813"
+         id="text3697"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+           sodipodi:role="line"
+           id="tspan3695"
+           x="189.73415"
+           y="145.95813"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332">V</tspan></text>
+    </g>
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 71.6093,150.55085 -1.226747,-4.07233 -1.22677,4.07233 -1.22676,-4.8868 -1.22677,4.8868 -1.226767,-4.47956 -1.22676,4.47956 -1.22677,-4.8868 -1.22676,4.8868"
+       id="path3737"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="63.792446"
+       y="143.84105"
+       id="text3741"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+         sodipodi:role="line"
+         id="tspan3739"
+         x="63.792446"
+         y="143.84105"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332">R</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6988"
+       width="10.554465"
+       height="13.399446"
+       x="83.224472"
+       y="124.61987" />
+    <text
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text6992"
+       y="133.41945"
+       x="97.213806"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332"
+         y="133.41945"
+         x="97.213806"
+         id="tspan6990"
+         sodipodi:role="line"
+         dy="0 2.5604839">vD1</tspan></text>
+    <text
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text6996"
+       y="123.82787"
+       x="96.499802"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332"
+         y="123.82787"
+         x="96.499802"
+         id="tspan6994"
+         sodipodi:role="line">+</tspan></text>
+    <text
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.84083557px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42102087"
+       x="60.656689"
+       y="226.51392"
+       id="text7000"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="scale(1.59126,0.62843281)"><tspan
+         sodipodi:role="line"
+         id="tspan6998"
+         x="60.656689"
+         y="226.51392"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.10450077px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.42102087">-</tspan></text>
+    <rect
+       y="124.82067"
+       x="83.18869"
+       height="9.5359411"
+       width="10.626018"
+       id="rect7002"
+       style="fill:#000000;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:connector-curvature="0"
+       id="path7190"
+       d="m 164.44376,113.86587 v 34.49786"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:connector-curvature="0"
+       id="path7192"
+       d="m 166.51235,127.32533 -4.07233,1.22676 4.07233,1.22678 -4.8868,1.22676 4.8868,1.22675 -4.47956,1.22677 4.47956,1.22677 -4.8868,1.22677 4.8868,1.22675"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       y="114.13767"
+       x="134.45161"
+       height="34.12701"
+       width="121.21956"
+       id="rect7194"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 155.74681,116.15498 -1.22675,-4.07233 -1.22677,4.07233 -1.22676,-4.8868 -1.22677,4.8868 -1.22677,-4.47956 -1.22676,4.47956 -1.22677,-4.8868 -1.22676,4.8868"
+       id="path7200"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       transform="translate(-67.204191,-4.7625003)"
+       id="g7222">
+      <g
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         id="g7216"
+         transform="translate(147.5977,-133.38985)"
+         inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png">
+        <circle
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle7206"
+           cx="54.50275"
+           cy="269.82047"
+           r="8.0971622" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="51.697231"
+           y="268.20496"
+           id="text7210"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><tspan
+             sodipodi:role="line"
+             id="tspan7208"
+             x="51.697231"
+             y="268.20496"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332">+</tspan></text>
+        <text
+           transform="scale(1.59126,0.6284328)"
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           id="text7214"
+           y="436.8884"
+           x="32.501194"
+           style="font-style:normal;font-weight:normal;font-size:16.84083557px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42102087"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.10450077px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.42102087"
+             y="436.8884"
+             x="32.501194"
+             id="tspan7212"
+             sodipodi:role="line">-</tspan></text>
+      </g>
+      <text
+         inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         id="text7220"
+         y="145.95813"
+         x="187.08835"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332"
+           y="145.95813"
+           x="187.08835"
+           id="tspan7218"
+           sodipodi:role="line"
+           dy="0 1.9914875">V1</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="175.00143"
+       y="104.31528"
+       id="text7234"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+         dy="0 2.5604839"
+         sodipodi:role="line"
+         id="tspan7232"
+         x="175.00143"
+         y="104.31528"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332">vD3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="167.40822"
+       y="105.8362"
+       id="text7238"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+         sodipodi:role="line"
+         id="tspan7236"
+         x="167.40822"
+         y="105.8362"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332">+</tspan></text>
+    <text
+       transform="scale(1.59126,0.62843281)"
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text7242"
+       y="167.57104"
+       x="118.8521"
+       style="font-style:normal;font-weight:normal;font-size:16.84083557px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42102087"
+       xml:space="preserve"
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.10450077px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.42102087"
+         y="167.57104"
+         x="118.8521"
+         id="tspan7240"
+         sodipodi:role="line">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="145.8132"
+       y="123.73281"
+       id="text7533"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+         sodipodi:role="line"
+         id="tspan7531"
+         x="145.8132"
+         y="123.73281"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332">1Ω</tspan></text>
+    <text
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text7664"
+       y="140.66614"
+       x="152.16319"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332"
+         y="140.66614"
+         x="152.16319"
+         id="tspan7662"
+         sodipodi:role="line">2Ω</tspan></text>
+    <g
+       id="g7678"
+       transform="rotate(-90,185.60376,114.04332)">
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path7668"
+         sodipodi:sides="3"
+         sodipodi:cx="185.43591"
+         sodipodi:cy="109.11737"
+         sodipodi:r1="4.2005658"
+         sodipodi:r2="2.1002829"
+         sodipodi:arg1="-0.52359878"
+         sodipodi:arg2="0.52359878"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 189.07371,107.01709 -1.8189,3.15042 -1.8189,3.15043 -1.8189,-3.15043 -1.81889,-3.15042 3.63779,0 z"
+         inkscape:transform-center-y="1.0501404" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect7670"
+         width="10.554465"
+         height="13.399446"
+         x="180.06201"
+         y="103.45322" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 180.67348,113.84712 h 9.10395"
+         id="path7672"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 200.42711,113.86587 v 34.49786"
+       id="path7680"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 202.4957,127.32533 -4.07233,1.22676 4.07233,1.22678 -4.8868,1.22676 4.8868,1.22675 -4.47956,1.22677 4.47956,1.22677 -4.8868,1.22677 4.8868,1.22675"
+       id="path7682"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="188.14658"
+       y="140.66614"
+       id="text7686"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+         sodipodi:role="line"
+         id="tspan7684"
+         x="188.14658"
+         y="140.66614"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332">2Ω</tspan></text>
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:connector-curvature="0"
+       id="path7688"
+       d="m 230.06048,113.86587 v 34.49786"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:connector-curvature="0"
+       id="path7690"
+       d="m 232.12907,127.32533 -4.07233,1.22676 4.07233,1.22678 -4.8868,1.22676 4.8868,1.22675 -4.47956,1.22677 4.47956,1.22677 -4.8868,1.22677 4.8868,1.22675"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+    <text
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text7694"
+       y="135.37454"
+       x="216.72157"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332"
+         y="135.37454"
+         x="216.72157"
+         id="tspan7692"
+         sodipodi:role="line">4Ω</tspan></text>
+    <g
+       id="g7712"
+       transform="translate(53.974981,-4.7625003)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+         transform="translate(147.5977,-133.38985)"
+         id="g7706"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <circle
+           r="8.0971622"
+           cy="269.82047"
+           cx="54.50275"
+           id="circle7696"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           id="text7700"
+           y="268.20496"
+           x="51.697231"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332"
+             y="268.20496"
+             x="51.697231"
+             id="tspan7698"
+             sodipodi:role="line">+</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:16.84083557px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42102087"
+           x="32.501194"
+           y="436.8884"
+           id="text7704"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1.59126,0.6284328)"><tspan
+             sodipodi:role="line"
+             id="tspan7702"
+             x="32.501194"
+             y="436.8884"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.10450077px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.42102087">-</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="187.08835"
+         y="145.95813"
+         id="text7710"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+           dy="0 1.7069893"
+           sodipodi:role="line"
+           id="tspan7708"
+           x="187.08835"
+           y="145.95813"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332">V2</tspan></text>
+    </g>
+    <path
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:connector-curvature="0"
+       id="path7714"
+       d="m 219.24685,116.15498 -1.22675,-4.07233 -1.22677,4.07233 -1.22676,-4.8868 -1.22677,4.8868 -1.22677,-4.47956 -1.22676,4.47956 -1.22677,-4.8868 -1.22676,4.8868"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text7718"
+       y="123.73281"
+       x="209.31326"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332"
+         y="123.73281"
+         x="209.31326"
+         id="tspan7716"
+         sodipodi:role="line">1Ω</tspan></text>
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 219.24685,150.55082 -1.22675,-4.07233 -1.22677,4.07233 -1.22676,-4.8868 -1.22677,4.8868 -1.22677,-4.47956 -1.22676,4.47956 -1.22677,-4.8868 -1.22676,4.8868"
+       id="path7720"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="209.31326"
+       y="143.84117"
+       id="text7724"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+         sodipodi:role="line"
+         id="tspan7722"
+         x="209.31326"
+         y="143.84117"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332">1Ω</tspan></text>
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       y="34.633213"
+       x="81.405472"
+       height="34.385967"
+       width="41.819016"
+       id="rect7927"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 108.65098,36.779966 -1.22675,-4.072327 -1.22677,4.072327 -1.22676,-4.886797 -1.22678,4.886797 -1.22678,-4.479557 -1.22676,4.479557 -1.22678,-4.886797 -1.226754,4.886797"
+       id="path7933"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="99.775803"
+       y="44.357948"
+       id="text7937"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+         sodipodi:role="line"
+         id="tspan7935"
+         x="99.775803"
+         y="44.357948"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332">R</tspan></text>
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle7939"
+       cx="81.979584"
+       cy="52.293114"
+       r="8.0971622"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="69.613274"
+       y="62.349792"
+       id="text7953"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+         sodipodi:role="line"
+         id="tspan7951"
+         x="69.613274"
+         y="62.349792"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:C059;-inkscape-font-specification:C059"
+           id="tspan8022">v</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:C059;-inkscape-font-specification:C059"
+           id="tspan8020"
+           dy="2.2759857">I</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="131.60959"
+       y="54.044464"
+       id="text7967"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+         dy="0 2.5604839"
+         sodipodi:role="line"
+         id="tspan7965"
+         x="131.60959"
+         y="54.044464"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:C059;-inkscape-font-specification:C059;stroke-width:0.26458332">vD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="130.8956"
+       y="44.452888"
+       id="text7971"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+         sodipodi:role="line"
+         id="tspan7969"
+         x="130.8956"
+         y="44.452888"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.26458332">+</tspan></text>
+    <text
+       transform="scale(1.59126,0.62843281)"
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text7975"
+       y="100.20773"
+       x="82.272133"
+       style="font-style:normal;font-weight:normal;font-size:16.84083557px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42102087"
+       xml:space="preserve"
+       inkscape:export-filename="/home/cw/Desktop/CSU0008/6.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.10450077px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';stroke-width:0.42102087"
+         y="100.20773"
+         x="82.272133"
+         id="tspan7973"
+         sodipodi:role="line">-</tspan></text>
+    <path
+       inkscape:transform-center-y="1.0501404"
+       d="m 127.16123,47.750437 -1.81889,3.150424 -1.8189,3.150424 -1.8189,-3.150424 -1.8189,-3.150424 3.6378,0 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="0.52359878"
+       sodipodi:arg1="-0.52359878"
+       sodipodi:r2="2.1002829"
+       sodipodi:r1="4.2005658"
+       sodipodi:cy="49.85072"
+       sodipodi:cx="123.52344"
+       sodipodi:sides="3"
+       id="path8004"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="star"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path8008"
+       d="m 118.76095,54.580448 h 9.10395"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 73.986605,52.832262 c 8.819444,-8.250448 9.10394,7.112455 15.647399,0"
+       id="path8010"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
